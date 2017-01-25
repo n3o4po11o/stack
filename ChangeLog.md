@@ -34,6 +34,7 @@ Behavior changes:
   importantly, 00-index contains only the newest revisions of cabal
   files, while 01-index contains all versions. You may still need to
   update your tooling.
+* Support for Git-based indices has been removed.
 
 Other enhancements:
 
